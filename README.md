@@ -1,2 +1,3 @@
 # Parking-Garage-
-For Parking Garage Owners
+A Parking Garage app for owners to manage thier own garages
+
